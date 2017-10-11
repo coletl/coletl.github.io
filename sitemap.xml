@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/resources/</loc>
+      <lastmod>2017-10-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+07:00</lastmod>
     </url>
@@ -43,6 +52,16 @@
     <url>
     
       <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/teaching/</loc>
+      <lastmod>2017-10-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
