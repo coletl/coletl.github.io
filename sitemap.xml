@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/resources/</loc>
+      <loc>https://coletl.github.io/resources/</loc>
       <lastmod>2017-10-12T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>/research/</loc>
+      <loc>https://coletl.github.io/research/</loc>
       <lastmod>2017-10-12T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://coletl.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+07:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://coletl.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://coletl.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -51,7 +51,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://coletl.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://coletl.github.io/tags/</loc>
       <priority>0</priority>
     </url>
     
@@ -69,7 +69,7 @@
     
     <url>
     
-      <loc>/tags/teaching/</loc>
+      <loc>https://coletl.github.io/tags/teaching/</loc>
       <lastmod>2017-10-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
