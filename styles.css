@@ -84,7 +84,8 @@ a, a:active, a:visited {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans";
-  font-weight: 200;
+  font-weight: normal;
+  font-size: 2em;
   line-height: 1.25;
 
   margin: 2em 0 .5em;
@@ -195,7 +196,7 @@ figure.third figcaption {
   width: 100%;
 }
 figcaption {
-  font-family: Merriweather;
+  font-family: Open Sans;
   font-size: .75em;
 
   margin-bottom: .5em;
@@ -360,8 +361,8 @@ nav li ul, nav li ol {
 .author-avatar {
   display: table-cell;
 
-  width: 200px;
-  height: 200px;
+  width: 40px;
+  height: 40px;
 
   vertical-align: top;
 }
@@ -376,7 +377,7 @@ nav li ul, nav li ol {
 .author-avatar img {
   max-width: 200px;
 
-  border-radius: 25%;
+  border-radius: 2%;
 }
 .author-content {
   line-height: 1;
@@ -412,8 +413,7 @@ nav li ul, nav li ol {
 
 .sidebar .author-name {
   font-family: "Open Sans";
-  font-weight: 300;
-  font-size: 1.5em;
+  font-size: 1.1em;
 }
 .author-bio {
   margin: 0;
@@ -597,7 +597,7 @@ nav li ul, nav li ol {
 }
 
 .post-container h1 {
-  /* color: #05668d; */
+  
 }
 
 .post-header {
