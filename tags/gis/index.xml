@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching on coletl</title>
-    <link>https://coletl.github.io/teaching/</link>
-    <description>Recent content in Teaching on coletl</description>
+    <title>gis on coletl</title>
+    <link>https://coletl.github.io/tags/gis/</link>
+    <description>Recent content in gis on coletl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Thu, 01 Jan 1970 01:33:42 +0100</lastBuildDate><atom:link href="https://coletl.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>tidy_intro</title>
-      <link>https://coletl.github.io/teaching/tidy_intro/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
-      
-      <guid>https://coletl.github.io/teaching/tidy_intro/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 01 Jan 1970 01:33:38 +0100</lastBuildDate><atom:link href="https://coletl.github.io/tags/gis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Approximate Geocoding</title>
       <link>https://coletl.github.io/teaching/geocode/</link>
@@ -32,15 +23,6 @@
       <pubDate>Thu, 01 Jan 1970 01:33:37 +0100</pubDate>
       
       <guid>https://coletl.github.io/teaching/raster_extract/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inferring ethnicity given names</title>
-      <link>https://coletl.github.io/teaching/names_eval/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:37 +0100</pubDate>
-      
-      <guid>https://coletl.github.io/teaching/names_eval/</guid>
       <description></description>
     </item>
     

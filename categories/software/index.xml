@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on coletl</title>
-    <link>https://coletl.github.io/software/</link>
+    <link>https://coletl.github.io/categories/software/</link>
     <description>Recent content in Software on coletl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Thu, 01 Jan 1970 01:33:42 +0100</lastBuildDate><atom:link href="https://coletl.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 1970 01:33:42 +0100</lastBuildDate><atom:link href="https://coletl.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blocs: Estimate and Visualize Voting Blocs&#39; Partisan Contributions</title>
       <link>https://coletl.github.io/software/blocs/</link>

@@ -18,30 +18,12 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://coletl.github.io/contact/</link>
-      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      <title>blocs: Estimate and Visualize Voting Blocs&#39; Partisan Contributions</title>
+      <link>https://coletl.github.io/software/blocs/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
       
-      <guid>https://coletl.github.io/contact/</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
-    </item>
-    
-    <item>
-      <title>Typography Styles &amp; Element Examples</title>
-      <link>https://coletl.github.io/elements/</link>
-      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
-      
-      <guid>https://coletl.github.io/elements/</guid>
-      <description>Font Sizes   A A A A A A A A   6rem
-(96px) 5rem
-(80px) 3rem
-(48px) 2.25rem
-(36px) 1.5rem
-(24px) 1.25rem
-(20px) 1rem
-(16px) .875rem
-(14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+      <guid>https://coletl.github.io/software/blocs/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -54,15 +36,48 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     </item>
     
     <item>
-      <title>Contributors</title>
-      <link>https://coletl.github.io/contributors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>tidy_intro</title>
+      <link>https://coletl.github.io/teaching/tidy_intro/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
       
-      <guid>https://coletl.github.io/contributors/</guid>
-      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
-   Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
-   Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
-   Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+      <guid>https://coletl.github.io/teaching/tidy_intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Geocoding</title>
+      <link>https://coletl.github.io/teaching/geocode/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
+      
+      <guid>https://coletl.github.io/teaching/geocode/</guid>
+      <description>This tutorial outlines methods of record linkage specialized to the context of spatial data. We use these techniques to assign geographic coordinates to all Kenyan polling stations from 1997 to 2013. Through a generalizable example of this automated geocoding process, we provide what we hope to be a helpful introduction to rigorous, systematic record linkage in the world of messy spatial data.</description>
+    </item>
+    
+    <item>
+      <title>congappor: Simulating U.S. Congressional Apportionment in R</title>
+      <link>https://coletl.github.io/software/congappor/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:37 +0100</pubDate>
+      
+      <guid>https://coletl.github.io/software/congappor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting Data from Raster</title>
+      <link>https://coletl.github.io/teaching/raster_extract/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:37 +0100</pubDate>
+      
+      <guid>https://coletl.github.io/teaching/raster_extract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring ethnicity given names</title>
+      <link>https://coletl.github.io/teaching/names_eval/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:37 +0100</pubDate>
+      
+      <guid>https://coletl.github.io/teaching/names_eval/</guid>
+      <description></description>
     </item>
     
     <item>
