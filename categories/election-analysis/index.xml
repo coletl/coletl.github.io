@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>election analysis on </title>
+    <link>https://coletl.github.io/categories/election-analysis/</link>
+    <description>Recent content in election analysis on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Cole Tanigawa-Lau 2017</copyright><atom:link href="https://coletl.github.io/categories/election-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measuring the Contribution of Voting Blocs to Election Outcomes</title>
+      <link>https://coletl.github.io/research/trump_vb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coletl.github.io/research/trump_vb/</guid>
+      <description>To interpret elections, social scientists and media pundits often ask: how much did particular groups, or voting blocs, contribute to a candidate’s vote total? Analysts often answer this question by regressing vote choice on voters’ attributes, interpreting changes in coefficient magnitude across elections as shifts in support. We show, however, that this analysis fails to take into account the prevalence of the group in the electorate and the rate that group turns out to vote — yielding quantities that are not directly useful for understanding election outcomes.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on coletl</title>
+    <link>https://coletl.github.io/categories/publications/</link>
+    <description>Recent content in Publications on coletl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 01:33:42 +0100</lastBuildDate><atom:link href="https://coletl.github.io/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Language Models in Sociological Research</title>
+      <link>https://coletl.github.io/research/names/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
+      
+      <guid>https://coletl.github.io/research/names/</guid>
+      <description>Computational methods have become widespread in the social sciences, but probabilistic language models remain relatively underused. We introduce language models to a general social science readership. First, we offer an accessible explanation of language models, detailing how they estimate the probability of a piece of language, such as a word or sentence, on the basis of the linguistic context. Second, we apply language models in an illustrative analysis to demonstrate the mechanics of using these models in social science research.</description>
+    </item>
+    
+  </channel>
+</rss>

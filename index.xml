@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cole Tanigawa-Lau on coletl</title>
+    <link>https://coletl.github.io/</link>
+    <description>Recent content in Cole Tanigawa-Lau on coletl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://coletl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measuring the Contribution of Voting Blocs to Election Outcomes</title>
+      <link>https://coletl.github.io/research/trump_vb/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://coletl.github.io/research/trump_vb/</guid>
+      <description>To interpret elections, social scientists and media pundits often ask: how much did particular groups, or voting blocs, contribute to a candidate’s vote total? Analysts often answer this question by regressing vote choice on voters’ attributes, interpreting changes in coefficient magnitude across elections as shifts in support. We show, however, that this analysis fails to take into account the prevalence of the group in the electorate and the rate that group turns out to vote — yielding quantities that are not directly useful for understanding election outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://coletl.github.io/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://coletl.github.io/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>Typography Styles &amp; Element Examples</title>
+      <link>https://coletl.github.io/elements/</link>
+      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
+      
+      <guid>https://coletl.github.io/elements/</guid>
+      <description>Font Sizes   A A A A A A A A   6rem
+(96px) 5rem
+(80px) 3rem
+(48px) 2.25rem
+(36px) 1.5rem
+(24px) 1.25rem
+(20px) 1rem
+(16px) .875rem
+(14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+    <item>
+      <title>Language Models in Sociological Research</title>
+      <link>https://coletl.github.io/research/names/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
+      
+      <guid>https://coletl.github.io/research/names/</guid>
+      <description>Computational methods have become widespread in the social sciences, but probabilistic language models remain relatively underused. We introduce language models to a general social science readership. First, we offer an accessible explanation of language models, detailing how they estimate the probability of a piece of language, such as a word or sentence, on the basis of the linguistic context. Second, we apply language models in an illustrative analysis to demonstrate the mechanics of using these models in social science research.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://coletl.github.io/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coletl.github.io/contributors/</guid>
+      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
+   Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
+   Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
+   Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://coletl.github.io/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coletl.github.io/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
