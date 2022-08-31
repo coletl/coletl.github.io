@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Thu, 01 Jan 1970 01:33:42 +0100</lastBuildDate><atom:link href="https://coletl.github.io/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 1969 21:33:42 -0300</lastBuildDate><atom:link href="https://coletl.github.io/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tidy_intro</title>
       <link>https://coletl.github.io/teaching/tidy_intro/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
+      <pubDate>Wed, 31 Dec 1969 21:33:42 -0300</pubDate>
       
       <guid>https://coletl.github.io/teaching/tidy_intro/</guid>
       <description></description>
@@ -20,7 +20,7 @@
     <item>
       <title>Approximate Geocoding</title>
       <link>https://coletl.github.io/teaching/geocode/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
+      <pubDate>Wed, 31 Dec 1969 21:33:38 -0300</pubDate>
       
       <guid>https://coletl.github.io/teaching/geocode/</guid>
       <description>This tutorial outlines methods of record linkage specialized to the context of spatial data. We use these techniques to assign geographic coordinates to all Kenyan polling stations from 1997 to 2013. Through a generalizable example of this automated geocoding process, we provide what we hope to be a helpful introduction to rigorous, systematic record linkage in the world of messy spatial data.</description>
@@ -29,7 +29,7 @@
     <item>
       <title>Extracting Data from Raster</title>
       <link>https://coletl.github.io/teaching/raster_extract/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:37 +0100</pubDate>
+      <pubDate>Wed, 31 Dec 1969 21:33:37 -0300</pubDate>
       
       <guid>https://coletl.github.io/teaching/raster_extract/</guid>
       <description></description>
@@ -38,7 +38,7 @@
     <item>
       <title>Inferring ethnicity given names</title>
       <link>https://coletl.github.io/teaching/names_eval/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:37 +0100</pubDate>
+      <pubDate>Wed, 31 Dec 1969 21:33:37 -0300</pubDate>
       
       <guid>https://coletl.github.io/teaching/names_eval/</guid>
       <description></description>
