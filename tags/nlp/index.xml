@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Wed, 31 Dec 1969 21:33:42 -0300</lastBuildDate><atom:link href="https://coletl.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 1969 16:33:42 -0800</lastBuildDate><atom:link href="https://coletl.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Language Models in Sociological Research</title>
       <link>https://coletl.github.io/research/names/</link>
-      <pubDate>Wed, 31 Dec 1969 21:33:42 -0300</pubDate>
+      <pubDate>Wed, 31 Dec 1969 16:33:42 -0800</pubDate>
       
       <guid>https://coletl.github.io/research/names/</guid>
       <description>Computational methods have become widespread in the social sciences, but probabilistic language models remain relatively underused. We introduce language models to a general social science readership. First, we offer an accessible explanation of language models, detailing how they estimate the probability of a piece of language, such as a word or sentence, on the basis of the linguistic context. Second, we apply language models in an illustrative analysis to demonstrate the mechanics of using these models in social science research.</description>

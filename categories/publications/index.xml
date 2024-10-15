@@ -7,11 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Wed, 31 Dec 1969 21:33:42 -0300</lastBuildDate><atom:link href="https://coletl.github.io/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 1969 16:33:44 -0800</lastBuildDate><atom:link href="https://coletl.github.io/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measuring the Contribution of Voting Blocs to Election Outcomes</title>
+      <link>https://coletl.github.io/research/trump_vb/</link>
+      <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
+      
+      <guid>https://coletl.github.io/research/trump_vb/</guid>
+      <description>To interpret elections, social scientists and media pundits often ask: how much did particular groups, or voting blocs, contribute to a candidate’s vote total? Analysts often answer this question by regressing vote choice on voters’ attributes, interpreting changes in coefficient magnitude across elections as shifts in support. We show, however, that this analysis fails to take into account the prevalence of the group in the electorate and the rate that group turns out to vote — yielding quantities that are not directly useful for understanding election outcomes.</description>
+    </item>
+    
     <item>
       <title>Language Models in Sociological Research</title>
       <link>https://coletl.github.io/research/names/</link>
-      <pubDate>Wed, 31 Dec 1969 21:33:42 -0300</pubDate>
+      <pubDate>Wed, 31 Dec 1969 16:33:42 -0800</pubDate>
       
       <guid>https://coletl.github.io/research/names/</guid>
       <description>Computational methods have become widespread in the social sciences, but probabilistic language models remain relatively underused. We introduce language models to a general social science readership. First, we offer an accessible explanation of language models, detailing how they estimate the probability of a piece of language, such as a word or sentence, on the basis of the linguistic context. Second, we apply language models in an illustrative analysis to demonstrate the mechanics of using these models in social science research.</description>

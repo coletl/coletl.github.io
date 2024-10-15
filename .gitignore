@@ -1,0 +1,12 @@
+public/
+
+**/.DS_Store
+
+.Rhistory
+.RData
+.RDataTmp
+
+.Ruserdata
+
+.Rproj.user/
+

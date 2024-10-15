@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on coletl</title>
-    <link>https://coletl.github.io/research/</link>
-    <description>Recent content in Research on coletl</description>
+    <title>elections on coletl</title>
+    <link>https://coletl.github.io/tags/elections/</link>
+    <description>Recent content in elections on coletl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Wed, 31 Dec 1969 16:33:44 -0800</lastBuildDate><atom:link href="https://coletl.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 1969 16:33:44 -0800</lastBuildDate><atom:link href="https://coletl.github.io/tags/elections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Measuring the Contribution of Voting Blocs to Election Outcomes</title>
       <link>https://coletl.github.io/research/trump_vb/</link>
@@ -18,12 +18,12 @@
     </item>
     
     <item>
-      <title>Language Models in Sociological Research</title>
-      <link>https://coletl.github.io/research/names/</link>
+      <title>blocs: Estimate and Visualize Voting Blocs&#39; Partisan Contributions</title>
+      <link>https://coletl.github.io/software/blocs/</link>
       <pubDate>Wed, 31 Dec 1969 16:33:42 -0800</pubDate>
       
-      <guid>https://coletl.github.io/research/names/</guid>
-      <description>Computational methods have become widespread in the social sciences, but probabilistic language models remain relatively underused. We introduce language models to a general social science readership. First, we offer an accessible explanation of language models, detailing how they estimate the probability of a piece of language, such as a word or sentence, on the basis of the linguistic context. Second, we apply language models in an illustrative analysis to demonstrate the mechanics of using these models in social science research.</description>
+      <guid>https://coletl.github.io/software/blocs/</guid>
+      <description></description>
     </item>
     
   </channel>
