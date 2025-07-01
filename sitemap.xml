@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://coletl.github.io/tags/algorithmic-bias/</loc>
+    <lastmod>1969-12-31T16:33:45-08:00</lastmod>
+  </url><url>
+    <loc>https://coletl.github.io/research/audits/</loc>
+    <lastmod>1969-12-31T16:33:45-08:00</lastmod>
+  </url><url>
     <loc>https://coletl.github.io/categories/</loc>
-    <lastmod>1969-12-31T16:33:44-08:00</lastmod>
+    <lastmod>1969-12-31T16:33:45-08:00</lastmod>
   </url><url>
     <loc>https://coletl.github.io/</loc>
-    <lastmod>1969-12-31T16:33:44-08:00</lastmod>
+    <lastmod>1969-12-31T16:33:45-08:00</lastmod>
+  </url><url>
+    <loc>https://coletl.github.io/tags/machine-learning/</loc>
+    <lastmod>1969-12-31T16:33:45-08:00</lastmod>
+  </url><url>
+    <loc>https://coletl.github.io/tags/policy/</loc>
+    <lastmod>1969-12-31T16:33:45-08:00</lastmod>
+  </url><url>
+    <loc>https://coletl.github.io/categories/publications/</loc>
+    <lastmod>1969-12-31T16:33:45-08:00</lastmod>
+  </url><url>
+    <loc>https://coletl.github.io/tags/regulation/</loc>
+    <lastmod>1969-12-31T16:33:45-08:00</lastmod>
+  </url><url>
+    <loc>https://coletl.github.io/research/</loc>
+    <lastmod>1969-12-31T16:33:45-08:00</lastmod>
+  </url><url>
+    <loc>https://coletl.github.io/tags/</loc>
+    <lastmod>1969-12-31T16:33:45-08:00</lastmod>
   </url><url>
     <loc>https://coletl.github.io/tags/elections/</loc>
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
@@ -15,15 +39,6 @@
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
   </url><url>
     <loc>https://coletl.github.io/tags/methods/</loc>
-    <lastmod>1969-12-31T16:33:44-08:00</lastmod>
-  </url><url>
-    <loc>https://coletl.github.io/categories/publications/</loc>
-    <lastmod>1969-12-31T16:33:44-08:00</lastmod>
-  </url><url>
-    <loc>https://coletl.github.io/research/</loc>
-    <lastmod>1969-12-31T16:33:44-08:00</lastmod>
-  </url><url>
-    <loc>https://coletl.github.io/tags/</loc>
     <lastmod>1969-12-31T16:33:44-08:00</lastmod>
   </url><url>
     <loc>https://coletl.github.io/software/blocs/</loc>
