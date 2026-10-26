@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Software on coletl</title>
-    <link>https://coletl.github.io/software/</link>
-    <description>Recent content in Software on coletl</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Wed, 31 Dec 1969 16:33:42 -0800</lastBuildDate><atom:link href="https://coletl.github.io/software/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>blocs: Estimate and Visualize Voting Blocs&#39; Partisan Contributions</title>
-      <link>https://coletl.github.io/software/blocs/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:42 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/software/blocs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>congappor: Simulating U.S. Congressional Apportionment in R</title>
-      <link>https://coletl.github.io/software/congappor/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:37 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/software/congappor/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Software on coletl</title>
+		<link>https://coletl.github.io/software/</link>
+		<description>Recent content in Software on coletl</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>&amp;copy; Cole Tanigawa-Lau 2026</copyright>
+		
+		
+			<lastBuildDate>Wed, 31 Dec 1969 21:33:42 -0300</lastBuildDate>
+		
+			<atom:link href="https://coletl.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>blocs: Estimate and Visualize Voting Blocs&#39; Partisan Contributions</title>
+				<link>https://coletl.github.io/software/blocs/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:42 -0300</pubDate>
+				<guid>https://coletl.github.io/software/blocs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>congappor: Simulating U.S. Congressional Apportionment in R</title>
+				<link>https://coletl.github.io/software/congappor/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:37 -0300</pubDate>
+				<guid>https://coletl.github.io/software/congappor/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

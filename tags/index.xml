@@ -1,93 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on coletl</title>
-    <link>https://coletl.github.io/tags/</link>
-    <description>Recent content in Tags on coletl</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Wed, 31 Dec 1969 16:33:45 -0800</lastBuildDate><atom:link href="https://coletl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>algorithmic bias</title>
-      <link>https://coletl.github.io/tags/algorithmic-bias/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:45 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/tags/algorithmic-bias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>https://coletl.github.io/tags/machine-learning/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:45 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>policy</title>
-      <link>https://coletl.github.io/tags/policy/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:45 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/tags/policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regulation</title>
-      <link>https://coletl.github.io/tags/regulation/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:45 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/tags/regulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>elections</title>
-      <link>https://coletl.github.io/tags/elections/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/tags/elections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>methods</title>
-      <link>https://coletl.github.io/tags/methods/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/tags/methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nlp</title>
-      <link>https://coletl.github.io/tags/nlp/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:42 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tidyverse</title>
-      <link>https://coletl.github.io/tags/tidyverse/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:42 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/tags/tidyverse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gis</title>
-      <link>https://coletl.github.io/tags/gis/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:38 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/tags/gis/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Tags on coletl</title>
+		<link>https://coletl.github.io/tags/</link>
+		<description>Recent content in Tags on coletl</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>&amp;copy; Cole Tanigawa-Lau 2026</copyright>
+		
+		
+			<lastBuildDate>Wed, 31 Dec 1969 21:33:46 -0300</lastBuildDate>
+		
+			<atom:link href="https://coletl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Disability</title>
+				<link>https://coletl.github.io/tags/disability/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:46 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/disability/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Elections</title>
+				<link>https://coletl.github.io/tags/elections/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:46 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/elections/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Voting Rights</title>
+				<link>https://coletl.github.io/tags/voting-rights/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:46 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/voting-rights/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Algorithmic Bias</title>
+				<link>https://coletl.github.io/tags/algorithmic-bias/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:45 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/algorithmic-bias/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Machine Learning</title>
+				<link>https://coletl.github.io/tags/machine-learning/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:45 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/machine-learning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Policy</title>
+				<link>https://coletl.github.io/tags/policy/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:45 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/policy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Regulation</title>
+				<link>https://coletl.github.io/tags/regulation/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:45 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/regulation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Methods</title>
+				<link>https://coletl.github.io/tags/methods/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:44 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/methods/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Nlp</title>
+				<link>https://coletl.github.io/tags/nlp/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:42 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/nlp/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tidyverse</title>
+				<link>https://coletl.github.io/tags/tidyverse/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:42 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/tidyverse/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gis</title>
+				<link>https://coletl.github.io/tags/gis/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:38 -0300</pubDate>
+				<guid>https://coletl.github.io/tags/gis/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

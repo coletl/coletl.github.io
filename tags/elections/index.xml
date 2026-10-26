@@ -1,30 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>elections on coletl</title>
-    <link>https://coletl.github.io/tags/elections/</link>
-    <description>Recent content in elections on coletl</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Wed, 31 Dec 1969 16:33:44 -0800</lastBuildDate><atom:link href="https://coletl.github.io/tags/elections/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Measuring the Contribution of Voting Blocs to Election Outcomes</title>
-      <link>https://coletl.github.io/research/trump_vb/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:44 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/research/trump_vb/</guid>
-      <description>To interpret elections, social scientists and media pundits often ask: how much did particular groups, or voting blocs, contribute to a candidate’s vote total? Analysts often answer this question by regressing vote choice on voters’ attributes, interpreting changes in coefficient magnitude across elections as shifts in support. We show, however, that this analysis fails to take into account the prevalence of the group in the electorate and the rate that group turns out to vote — yielding quantities that are not directly useful for understanding election outcomes.</description>
-    </item>
-    
-    <item>
-      <title>blocs: Estimate and Visualize Voting Blocs&#39; Partisan Contributions</title>
-      <link>https://coletl.github.io/software/blocs/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:42 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/software/blocs/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Elections on coletl</title>
+		<link>https://coletl.github.io/tags/elections/</link>
+		<description>Recent content in Elections on coletl</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>&amp;copy; Cole Tanigawa-Lau 2026</copyright>
+		
+		
+			<lastBuildDate>Wed, 31 Dec 1969 21:33:46 -0300</lastBuildDate>
+		
+			<atom:link href="https://coletl.github.io/tags/elections/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Proximity to Data Centers Predicts Changes in Voter Turnout, Especially among Independents</title>
+				<link>https://coletl.github.io/research/data_centers/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:46 -0300</pubDate>
+				<guid>https://coletl.github.io/research/data_centers/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vote-By-Mail Regimes and the Disability Turnout Gap</title>
+				<link>https://coletl.github.io/research/disability_turnout/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:46 -0300</pubDate>
+				<guid>https://coletl.github.io/research/disability_turnout/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Measuring the Contribution of Voting Blocs to Election Outcomes</title>
+				<link>https://coletl.github.io/research/trump_vb/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:44 -0300</pubDate>
+				<guid>https://coletl.github.io/research/trump_vb/</guid>
+				<description>&lt;p&gt;To interpret elections, social scientists and media pundits often ask: how much did particular groups, or voting blocs, contribute to a candidate’s vote total? Analysts often answer this question by regressing vote choice on voters’ attributes, interpreting changes in coefficient magnitude across elections as shifts in support. We show, however, that this analysis fails to take into account the prevalence of the group in the electorate and the rate that group turns out to vote — yielding quantities that are not directly useful for understanding election outcomes. To avoid this base-rate fallacy, we introduce a set of tools for estimating where candidates received votes and how voting bloc patterns differ from prior elections. We apply these tools to study US elections, demonstrating that there is little evidence that Black and Hispanic voters shifted to Republicans in the 2020 election and that Donald Trump’s support was concentrated among voters with moderate attitudes towards racial outgroups.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>blocs: Estimate and Visualize Voting Blocs&#39; Partisan Contributions</title>
+				<link>https://coletl.github.io/software/blocs/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:42 -0300</pubDate>
+				<guid>https://coletl.github.io/software/blocs/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

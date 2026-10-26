@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on coletl</title>
-    <link>https://coletl.github.io/categories/</link>
-    <description>Recent content in Categories on coletl</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Wed, 31 Dec 1969 16:33:45 -0800</lastBuildDate><atom:link href="https://coletl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Publications</title>
-      <link>https://coletl.github.io/categories/publications/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:45 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/categories/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://coletl.github.io/categories/software/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:42 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/categories/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://coletl.github.io/categories/teaching/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:42 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/categories/teaching/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Categories on coletl</title>
+		<link>https://coletl.github.io/categories/</link>
+		<description>Recent content in Categories on coletl</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>&amp;copy; Cole Tanigawa-Lau 2026</copyright>
+		
+		
+			<lastBuildDate>Wed, 31 Dec 1969 21:33:46 -0300</lastBuildDate>
+		
+			<atom:link href="https://coletl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Working Papers</title>
+				<link>https://coletl.github.io/categories/working-papers/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:46 -0300</pubDate>
+				<guid>https://coletl.github.io/categories/working-papers/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Publications</title>
+				<link>https://coletl.github.io/categories/publications/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:45 -0300</pubDate>
+				<guid>https://coletl.github.io/categories/publications/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Software</title>
+				<link>https://coletl.github.io/categories/software/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:42 -0300</pubDate>
+				<guid>https://coletl.github.io/categories/software/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Teaching</title>
+				<link>https://coletl.github.io/categories/teaching/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:42 -0300</pubDate>
+				<guid>https://coletl.github.io/categories/teaching/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

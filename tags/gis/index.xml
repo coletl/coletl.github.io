@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>gis on coletl</title>
-    <link>https://coletl.github.io/tags/gis/</link>
-    <description>Recent content in gis on coletl</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy; Cole Tanigawa-Lau 2022</copyright>
-    <lastBuildDate>Wed, 31 Dec 1969 16:33:38 -0800</lastBuildDate><atom:link href="https://coletl.github.io/tags/gis/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Approximate Geocoding</title>
-      <link>https://coletl.github.io/teaching/geocode/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:38 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/teaching/geocode/</guid>
-      <description>This tutorial outlines methods of record linkage specialized to the context of spatial data. We use these techniques to assign geographic coordinates to all Kenyan polling stations from 1997 to 2013. Through a generalizable example of this automated geocoding process, we provide what we hope to be a helpful introduction to rigorous, systematic record linkage in the world of messy spatial data.</description>
-    </item>
-    
-    <item>
-      <title>Extracting Data from Raster</title>
-      <link>https://coletl.github.io/teaching/raster_extract/</link>
-      <pubDate>Wed, 31 Dec 1969 16:33:37 -0800</pubDate>
-      
-      <guid>https://coletl.github.io/teaching/raster_extract/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Gis on coletl</title>
+		<link>https://coletl.github.io/tags/gis/</link>
+		<description>Recent content in Gis on coletl</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>&amp;copy; Cole Tanigawa-Lau 2026</copyright>
+		
+		
+			<lastBuildDate>Wed, 31 Dec 1969 21:33:38 -0300</lastBuildDate>
+		
+			<atom:link href="https://coletl.github.io/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Approximate Geocoding</title>
+				<link>https://coletl.github.io/teaching/geocode/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:38 -0300</pubDate>
+				<guid>https://coletl.github.io/teaching/geocode/</guid>
+				<description>&lt;p&gt;This tutorial outlines methods of record linkage specialized to the context of spatial data. We use these techniques to assign geographic coordinates to all Kenyan polling stations from 1997 to 2013. Through a generalizable example of this automated geocoding process, we provide what we hope to be a helpful introduction to rigorous, systematic record linkage in the world of messy spatial data.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Extracting Data from Raster</title>
+				<link>https://coletl.github.io/teaching/raster_extract/</link>
+				<pubDate>Wed, 31 Dec 1969 21:33:37 -0300</pubDate>
+				<guid>https://coletl.github.io/teaching/raster_extract/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
